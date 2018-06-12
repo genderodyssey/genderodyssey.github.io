@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "General Training"
+date:   2018-06-10 12:00:00 -0700
+categories: go training general
+---
+## Identity Etiquette
+- Remember: Make no assumptions about anyone’s identity
+- Ask, “What are your pronouns?” (avoid the term “preferred”)
+- “What’s your name?” or “What do you go by?”
+    - We do not need legal names except for credit cards and Kids Camp
+- Most conference center restrooms will be gender-neutral and/or determined by self-identity.
+- You can [read more]({{ "/assets/allies_glaad.pdf" | relative_url }}) for Tips for Allies of Transgender People from GLAAD.
+
+## Preparing for Your Volunteer Shift
+- Wear whatever is most comfortable for you. Consider the family environment.
+- Choose your footwear carefully—you may be on your feet a lot!
+- Leave valuables at home. There is no locking storage area.
+- Food will be available for purchase. You are welcome to bring your own snack.
+
+## Keeping Commitments
+-  Don’t leave conference computers or equipment unattended.
+-  Please be on time and plan to stay for your entire shift.
+
+## Volunteer coordinator
+If you need to make a change, are going to be late, etc., please contact the volunteer coordinator:
+
+Los Angeles:
+* Danielle Hurwitz
+  - dhurwitz@dveal.org
+  - 626-216-6751 or 310-498-5140
+
+## Thank you, thank you...
+* Many people help make the Gender Odyssey conferences happen.
+* We owe it to our volunteers for all of their hard work.
+* Please do sign up and show up to your volunteer commitments.
+
+**Yes, we really do need you!**
+
+## ...thank you, thank you!
+* Gender Odyssey is a life-changing experience.
+* People find friends, and gain a better understanding of their families, themselves and of the transgender community.
+* We are so grateful for your contribution to the conference.
+
+**Remember to HAVE FUN at Gender Odyssey!**
