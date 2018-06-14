@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Transgender 101 - ASL!"
+date:   2018-06-14 8:00:00 -0700
+categories: go 101
+---
+# Transgender 101 - ASL
+
+This video is a trans 101 for individuals looking to learn more about Trans Communities. It also shows how to sign different Trans terms. This video has been made possibly thanks to funding from Toronto Foundation Vital Ideas Grant.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bu8ZlW-2Nfc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
