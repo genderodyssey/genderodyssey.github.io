@@ -2,7 +2,7 @@
 layout: post
 title:  "General Training"
 date:   2018-06-10 12:00:00 -0700
-categories: go training general
+categories: [training, all]
 ---
 ## Identity Etiquette
 - Remember: Make no assumptions about anyone’s identity

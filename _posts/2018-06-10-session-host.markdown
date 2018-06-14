@@ -2,7 +2,7 @@
 layout: post
 title:  "Session Hosts"
 date:   2018-06-10 12:00:00 -0700
-categories: go session-host
+categories: [training, session-host]
 ---
 # Gender Odyssey Volunteer: Session Hosts
 

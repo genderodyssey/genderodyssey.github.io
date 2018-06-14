@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Gender Odyssey!"
 date:   2018-06-10 12:00:00 -0700
-categories: go welcome
+categories: [training, all]
 ---
 # Gender Odyssey Volunteer Orientation - Welcome from Aidan Key
 

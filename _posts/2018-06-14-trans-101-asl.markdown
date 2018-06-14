@@ -2,7 +2,7 @@
 layout: post
 title:  "Transgender 101 - ASL!"
 date:   2018-06-14 8:00:00 -0700
-categories: go 101
+categories: [education, 101]
 ---
 # Transgender 101 - ASL
 
