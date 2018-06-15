@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Navigator Training"
-date:   2018-06-10 12:00:00 -0700
+date:   2018-06-14 17:00:00 -0700
 categories: [training, navigator]
 ---
 ## What is a Navigator?

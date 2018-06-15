@@ -2,7 +2,7 @@
 layout: post
 title:  "Gender & Sexuality 101"
 date:   2018-06-14 8:00:00 -0700
-categories: [education, 101]
+categories: [education]
 ---
 # Sexuality & Gender 101
 
