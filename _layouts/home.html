@@ -20,7 +20,7 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-        <span class="post-meta">{{ post.categories | join: ' | ' }}</span>
+        &nbsp;&nbsp;&nbsp;&nbsp;<span class="post-meta">{{ post.categories | join: ' | ' }}</span>
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
