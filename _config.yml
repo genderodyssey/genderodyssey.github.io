@@ -16,7 +16,7 @@
 title: Gender Odyssey
 email: info@genderodyssey.org
 description: >- # this means to ignore newlines until "baseurl:"
-  This blog has information for volunteers at Gender Odyssey
+  This blog has information for volunteers who will be helping out at the Gender Odyssey Conference
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://genderodyssey.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: genderodyssey
@@ -24,9 +24,10 @@ github_username:  genderodyssey
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
